@@ -1,1 +1,3 @@
 this is the first git text
+
+git is so fucking good 
