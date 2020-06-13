@@ -2,3 +2,4 @@ this is the first git text
 
 git is so fucking good 
 the third line
+creating a new branch is quick AND simple
